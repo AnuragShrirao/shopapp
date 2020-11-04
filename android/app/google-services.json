@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "32764522307",
+    "firebase_url": "https://shopapp-354c8.firebaseio.com",
+    "project_id": "shopapp-354c8",
+    "storage_bucket": "shopapp-354c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32764522307:android:363fb6108e0c8a271349f6",
+        "android_client_info": {
+          "package_name": "com.example.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32764522307-9dflq7ovjr7uo36l8nebi2ds3fkk0tn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMJKwUYIj3MhPGBPYYNV8FHKzvQD9G2Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32764522307-9dflq7ovjr7uo36l8nebi2ds3fkk0tn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
