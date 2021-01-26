@@ -1,6 +1,6 @@
 # shopapp
 
-E-Commerce app for online service with backend of Firebase.
+# E-Commerce app for online service with backend of Firebase.
 
 # Screenshot -
 
